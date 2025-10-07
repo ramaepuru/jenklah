@@ -1,0 +1,3 @@
+mkdir dir2
+touch f1 f2
+echo "This is jenkins" > file10
